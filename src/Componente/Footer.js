@@ -22,7 +22,7 @@ function Footer() {
           </ul>
         </div>
         <div className="footer-section">
-          <h2>Social</h2>
+          <h2>Sociales</h2>
           <ul>
             <li><a href="#"><i className="fab fa-facebook-f"></i> Facebook</a></li>
             <li><a href="#"><i className="fab fa-twitter"></i> Twitter</a></li>
